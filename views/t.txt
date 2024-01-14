@@ -1,0 +1,22 @@
+<div class="ground">
+                <ul>
+                    <li><h5>Vision</h5>
+                    <p>Focus your attention on something beautiful or comforting.<br>Like a meaningful piece of art</p>
+                    </li>
+                    <li><h5>Hearing</h5>
+                        <p>Listen to a favourite song, sit in nature and listen to the sounds, or sing.</p>
+                    </li>
+                    <li><h5>Smell</h5>
+                        <p> Notice smells around you or find something you like the smell of. <br>Like some soap, a type of food, or an essential oil.
+                        </p>
+                    </li>
+                    <li><h5>Taste</h5>
+                        <p>Find something to taste and do it slowly and mindfully. Savour each moment. <br>Notice the flavours, how it feels on your tongue, and what thoughts you have about it.
+                        </p>
+                    </li>
+                    <li><h5>Touch</h5>
+                        <p>Stroke or feel something comforting. Get in a dressing gown or comfy blanket. Stroke a pet.<br> Suck on some ice. Notice how the different sensations feels in your body.
+                        </p>
+                    </li>
+                </ul>
+            </div>
